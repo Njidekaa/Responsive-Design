@@ -110,7 +110,7 @@ a{
 
 /* media quaries*/
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 1000px) {
   main{
     position: relative;
     width: 100%;
